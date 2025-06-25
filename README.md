@@ -1,16 +1,82 @@
-## Hi there 👋
+# 🌩️ Linn Latt Oo
 
-<!--
-**linnlattoo-cloud/linnlattoo-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cloud Platform Engineer | AWS Community Builder | IaC & DevOps Enthusiast**
 
-Here are some ideas to get you started:
+Hi, I’m **Linn Latt Oo** — a cloud-native engineer passionate about building scalable, secure, and cost-effective infrastructure in the cloud. With professional experience in **AWS** and **Azure**, I focus on **Infrastructure as Code (IaC)**, **CI/CD automation**, container orchestration, and observability to deliver reliable cloud solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 What I Do
+
+- 🚀 **Cloud Engineering**: Architecting and optimizing AWS/Azure cloud infrastructure with 99%+ uptime and 20%+ cost savings.
+- 📦 **DevOps & Automation**: Building GitHub Actions workflows, end-to-end CI/CD pipelines, and Infrastructure as Code (Terraform, CloudFormation).
+- 🧩 **Monitoring & Reliability**: Implementing observability stacks with Prometheus, Grafana, CloudWatch, and real-time alerting systems.
+- 🛠 **Containers & Microservices**: Managing workloads via ECS/EKS, Docker, and Kubernetes.
+
+---
+
+## 🏆 Highlights
+
+- 🟡 **AWS Community Builder (Cloud Operations)** — selected by AWS in **March 2025** for demonstrated passion, technical contributions, and community impact.
+- 🔁 Promoted rapidly from Intern to Engineer in under 12 months for high performance at Protocol Solutions.
+
+---
+
+## 🛠️ Tech Toolbox
+
+| Domain                  | Tools & Technologies                                                                 |
+|-------------------------|--------------------------------------------------------------------------------------|
+| ☁️ Cloud Platforms       | AWS, Microsoft Azure, GCP (fundamentals)                                            |
+| ⚙️ IaC & Automation      | Terraform, AWS CloudFormation, GitHub Actions, Azure DevOps, Jenkins                |
+| 🐳 Containers & Orchestration | Docker, Kubernetes, ECS, EKS, AKS                                           |
+| 🚀 CI/CD Pipelines       | AWS CodePipeline, CodeDeploy, GitHub Actions                                       |
+| 📈 Monitoring & Logging  | Prometheus, Grafana, AWS CloudWatch, Azure Monitor                                 |
+| 🖥️ Server Admin          | Linux (Ubuntu, CentOS), Windows Server                                             |
+| 🧠 Languages/Frameworks  | Node.js, Next.js, Vue.js                                                            |
+| 🗃️ Databases             | Amazon RDS, Azure SQL, DynamoDB, Cosmos DB                                         |
+| 🔁 Version Control       | Git, GitHub, GitLab                                                                |
+
+---
+
+## 📚 Education
+
+🎓 **BSc (Hons) in Computer Networks**  
+*Liverpool John Moores University*  
+`Jan 2024 – Mar 2025`
+
+🎓 **Higher Diploma in Infrastructure & Networks**  
+*Auston Institute of Management, Singapore*  
+`Nov 2023 – Dec 2024`
+
+---
+
+## 📌 Projects
+
+- **Containerized App Deployment**  
+  Tools: ECS, ECR, CloudFormation, Docker, GitHub Actions  
+  → Architected & deployed a production-grade containerized app with secure delivery via CloudFront.
+
+- **CI/CD with AWS Developer Tools**  
+  Tools: CodeCommit, CodePipeline, CodeDeploy, ECS  
+  → Automated application deployment lifecycle with minimal manual intervention.
+
+- **Private Cloud Monitoring**  
+  Tools: Prometheus, Grafana, Node Exporter  
+  → Built observability stack for Linux-based infrastructure with alerting & performance dashboards.
+
+---
+
+## 🗣 Languages
+
+- **Burmese**: Native  
+- **English**: Intermediate  
+
+---
+
+## 📫 Let’s Connect
+
+- 🌐 Website: [linnlattoo.cloud](https://www.linnlattoo.cloud)  
+- 💼 LinkedIn: [linkedin.com/in/linn-latt-oo](https://www.linkedin.com/in/linn-latt-oo)  
+- 🗂 GitHub: [github.com/linnlattoo-cloud](https://github.com/linnlattoo-cloud)
+
+---
