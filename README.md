@@ -8,7 +8,7 @@ Hi, I’m **Linn Latt Oo** — a cloud-native engineer passionate about building
 
 ## 🔧 What I Do
 
-- 🚀 **Cloud Engineering**: Architecting and optimizing AWS/Azure cloud infrastructure with 99%+ uptime and 20%+ cost savings.
+- 🚀 **Cloud Engineering**: Architecting and optimizing AWS/Azure cloud infrastructure.
 - 📦 **DevOps & Automation**: Building GitHub Actions workflows, end-to-end CI/CD pipelines, and Infrastructure as Code (Terraform, CloudFormation).
 - 🧩 **Monitoring & Reliability**: Implementing observability stacks with Prometheus, Grafana, CloudWatch, and real-time alerting systems.
 - 🛠 **Containers & Microservices**: Managing workloads via ECS/EKS, Docker, and Kubernetes.
