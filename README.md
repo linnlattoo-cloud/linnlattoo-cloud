@@ -18,7 +18,6 @@ Hi, I’m **Linn Latt Oo** — a cloud-native engineer passionate about building
 ## 🏆 Highlights
 
 - 🟡 **AWS Community Builder (Cloud Operations)** — selected by AWS in **March 2025** for demonstrated passion, technical contributions, and community impact.
-- 🔁 Promoted rapidly from Intern to Engineer in under 12 months for high performance at Protocol Solutions.
 
 ---
 
@@ -35,41 +34,6 @@ Hi, I’m **Linn Latt Oo** — a cloud-native engineer passionate about building
 | 🧠 Languages/Frameworks  | Node.js, Next.js, Vue.js                                                            |
 | 🗃️ Databases             | Amazon RDS, Azure SQL, DynamoDB, Cosmos DB                                         |
 | 🔁 Version Control       | Git, GitHub, GitLab                                                                |
-
----
-
-## 📚 Education
-
-🎓 **BSc (Hons) in Computer Networks**  
-*Liverpool John Moores University*  
-`Jan 2024 – Mar 2025`
-
-🎓 **Higher Diploma in Infrastructure & Networks**  
-*Auston Institute of Management, Singapore*  
-`Nov 2023 – Dec 2024`
-
----
-
-## 📌 Projects
-
-- **Containerized App Deployment**  
-  Tools: ECS, ECR, CloudFormation, Docker, GitHub Actions  
-  → Architected & deployed a production-grade containerized app with secure delivery via CloudFront.
-
-- **CI/CD with AWS Developer Tools**  
-  Tools: CodeCommit, CodePipeline, CodeDeploy, ECS  
-  → Automated application deployment lifecycle with minimal manual intervention.
-
-- **Private Cloud Monitoring**  
-  Tools: Prometheus, Grafana, Node Exporter  
-  → Built observability stack for Linux-based infrastructure with alerting & performance dashboards.
-
----
-
-## 🗣 Languages
-
-- **Burmese**: Native  
-- **English**: Intermediate  
 
 ---
 
