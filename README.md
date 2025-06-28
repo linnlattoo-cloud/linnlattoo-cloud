@@ -26,7 +26,7 @@ Hi, I’m **Linn Latt Oo** — a cloud-native engineer passionate about building
 | Domain                  | Tools & Technologies                                                                 |
 |-------------------------|--------------------------------------------------------------------------------------|
 | ☁️ Cloud Platforms       | AWS, Microsoft Azure, GCP (fundamentals)                                            |
-| ⚙️ IaC & Automation      | Terraform, AWS CloudFormation, AWS CodePipeline, CodeDeploy, GitHub Actions, Azure DevOps, Jenkins                |
+| ⚙️ IaC & Automation      | Terraform, AWS CloudFormation, AWS CodePipeline, Azure DevOps, GitHub Actions, Jenkins                |
 | 🐳 Containers & Orchestration | Docker, Kubernetes, ECS, EKS, AKS, ACS                                           |
 | 📈 Monitoring & Logging  | Prometheus, Grafana, AWS CloudWatch, Azure Monitor                                 |
 | 🖥️ Server Admin          | Linux (Ubuntu, CentOS), Windows Server                                             |
