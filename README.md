@@ -26,14 +26,13 @@ Hi, I’m **Linn Latt Oo** — a cloud-native engineer passionate about building
 | Domain                  | Tools & Technologies                                                                 |
 |-------------------------|--------------------------------------------------------------------------------------|
 | ☁️ Cloud Platforms       | AWS, Microsoft Azure, GCP (fundamentals)                                            |
-| ⚙️ IaC & Automation      | Terraform, AWS CloudFormation, GitHub Actions, Azure DevOps, Jenkins                |
-| 🐳 Containers & Orchestration | Docker, Kubernetes, ECS, EKS, AKS                                           |
-| 🚀 CI/CD Pipelines       | AWS CodePipeline, CodeDeploy, GitHub Actions                                       |
+| ⚙️ IaC & Automation      | Terraform, AWS CloudFormation, AWS CodePipeline, CodeDeploy, GitHub Actions, Azure DevOps, Jenkins                |
+| 🐳 Containers & Orchestration | Docker, Kubernetes, ECS, EKS, AKS, ACS                                           |
 | 📈 Monitoring & Logging  | Prometheus, Grafana, AWS CloudWatch, Azure Monitor                                 |
 | 🖥️ Server Admin          | Linux (Ubuntu, CentOS), Windows Server                                             |
-| 🧠 Languages/Frameworks  | Node.js, Next.js, Vue.js                                                            |
+| 🧠 Languages/Frameworks  | Experience with Node.js, Next.js, Vue.js                                                            |
 | 🗃️ Databases             | Amazon RDS, Azure SQL, DynamoDB, Cosmos DB                                         |
-| 🔁 Version Control       | Git, GitHub, GitLab                                                                |
+| 🔁 Version Control & SCM       | Git, GitHub, GitLab                                                                |
 
 ---
 
